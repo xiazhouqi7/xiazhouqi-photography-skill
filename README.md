@@ -2,6 +2,8 @@
 
 A flexible photography, color-grading and image-retouching skill library for travel, street, landscape and everyday visual work.
 
+Part of the **[Xiazhouqi](https://xiazhouqi7.com)** creative system.
+
 This repository is intentionally **not tied to one look**. It is designed as a growing style system: new visual directions can be added over time without creating a new repository for every style.
 
 ## What this repository covers
@@ -52,3 +54,9 @@ See [`styles/italian-slow-travel.md`](styles/italian-slow-travel.md).
 > Do not force a preset onto every image. Read the image first, then decide what should change.
 
 This repository is expected to evolve as new photographic styles, grading ideas and retouching methods are discovered.
+
+## Xiazhouqi system
+
+- **[Clear](https://github.com/xiazhouqi7/xiazhouqi-clear-skill)** — restrained, information-first interface design
+- **[Warm](https://github.com/xiazhouqi7/xiazhouqi-warm-skill)** — soft, warm and personal visual design
+- **Photography** — photography, grading and visual storytelling
