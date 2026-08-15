@@ -1,5 +1,7 @@
 # Xiazhouqi Photography Skill
 
+[简体中文](./README.zh-CN.md) · **English**
+
 A flexible photography, color-grading and image-retouching skill library for travel, street, landscape and everyday visual work.
 
 Part of the **[Xiazhouqi](https://xiazhouqi7.com)** creative system.
