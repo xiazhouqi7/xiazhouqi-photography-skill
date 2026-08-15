@@ -2,6 +2,8 @@
 
 这是一个用于**摄影、调色、修图与视觉风格管理**的长期仓库。
 
+属于 **[Xiazhouqi](https://xiazhouqi7.com)** 创作体系。
+
 它不会被固定成某一种滤镜或某一位摄影师的单一风格，而是作为一套可以持续扩展的摄影系统：以后遇到新的街拍、旅行、风景、夜景、胶片或电影感风格，都可以继续加入这个仓库，不需要重新创建 Repository（仓库）。
 
 ## 主要范围
@@ -64,3 +66,9 @@ xiazhouqi-photography-skill/
 每一张图都应该先判断：主体是谁、哪些内容值得留下、哪里需要模糊、哪里需要清晰、什么颜色属于现场本身。
 
 这个仓库会随着审美、拍摄经验和新的摄影参考不断更新。
+
+## Xiazhouqi 体系
+
+- **[Clear](https://github.com/xiazhouqi7/xiazhouqi-clear-skill)** — 清透、克制、信息优先的界面设计
+- **[Warm](https://github.com/xiazhouqi7/xiazhouqi-warm-skill)** — 温暖、柔和、偏个人化的视觉设计
+- **Photography** — 摄影、调色与视觉叙事
