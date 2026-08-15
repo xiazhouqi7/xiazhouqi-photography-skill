@@ -1,5 +1,7 @@
 # Xiazhouqi Photography Skill｜下周七摄影风格库
 
+**简体中文** · [English](./README.md)
+
 这是一个用于**摄影、调色、修图与视觉风格管理**的长期仓库。
 
 属于 **[Xiazhouqi](https://xiazhouqi7.com)** 创作体系。
